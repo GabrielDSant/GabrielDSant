@@ -13,3 +13,5 @@ Gosto de praticar em CTF's 🏳
 <a href="https://tryhackme.com/p/trvo">
 <img src="https://tryhackme-badges.s3.amazonaws.com/trvo.png" alt="TryHackMe">
 
+## Provalmente um Podcast 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12148773767&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
