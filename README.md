@@ -12,3 +12,8 @@ Gosto de praticar em CTF's 🏳
 ## Perfil TryHackMe
 <a href="https://tryhackme.com/p/trvo">
 <img src="https://tryhackme-badges.s3.amazonaws.com/trvo.png" alt="TryHackMe">
+
+## Linkedin
+  
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gabriel-lucas-dias-de-sant-anna-9a8a021a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-lucas-dias-de-sant-anna-9a8a021a0?trk=profile-badge">Gabriel Lucas Dias de Sant'anna</a></div>
+              
